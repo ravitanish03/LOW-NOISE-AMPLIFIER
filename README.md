@@ -14,7 +14,6 @@ A 2.45 GHz CMOS Low Noise Amplifier (LNA) designed and simulated with an RF simu
 - [Advantages and limitations](#advantages-and-limitations)
 - [Future work](#future-work)
 - [Applications](#applications)
-- [Team](#team)
 - [References](#references)
 
 ## Overview
